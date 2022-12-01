@@ -9,6 +9,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [x] ViteJS
 - [x] JSON Server
 - [x] React Hook Form
+- [x] Styled Components
 - [x] RadixUI
 - [x] Zod
 - [x] Context Selector
