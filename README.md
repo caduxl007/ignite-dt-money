@@ -1,4 +1,4 @@
-<h1 align="center">Igite DT Money</h1>
+<h1 align="center">Ignite DT Money</h1>
 
 ### 🛠 Tecnologias
 
