@@ -30,10 +30,10 @@ $ git clone <https://github.com/caduxl007/ignite-dt-money.git>
 # Acesse a pasta do projeto 
 $ cd ignite-dt-money
 
-Instale as dependências 
+# Instale as dependências 
 $ yarn
 
-Rode o servidor
+# Rode o servidor
 $ yarn dev:server
 
 # Execute a aplicação
